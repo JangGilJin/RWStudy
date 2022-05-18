@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T02:22:19.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="h12lgKGbMTsw9XYUhAWk" version="18.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-18T02:23:51.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="CjBBRaz_FE6yxAbVGHHP" version="18.0.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2370" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,38 +113,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NZiIiFC8Fb9gvlY1gPET" name="Page-2">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gbVMluVBchDvF7gR75sc-1" value="게임 매니저" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="20" width="140" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-2" value="게임시작&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-2" value="gameStart" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-3" value="게임끝&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-3" value="game End" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-4" value="스코어&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-4" value="score" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="110" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-5" value="클리어타임" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-5" value="Clear Time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="150" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-6" value="현재총알개수" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-6" value="current number of bullets" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="190" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-7" value="최대총알개수" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-7" value="max bullets" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="230" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-8" value="캔버스사이즈" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-8" value="canvus size" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="270" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-9" value="총알재장전" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-9" value="bullets reload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="310" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gbVMluVBchDvF7gR75sc-10" value="총알딜레이" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
+        <mxCell id="gbVMluVBchDvF7gR75sc-10" value="bullets delay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
           <mxGeometry y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbVMluVBchDvF7gR75sc-11" value="총알공격력" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gbVMluVBchDvF7gR75sc-1">
