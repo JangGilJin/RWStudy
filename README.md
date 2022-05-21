@@ -1,1 +1,1 @@
-https://github.com/JangGilJin/RWStudy/issues/2#issue-1243890242
+(https://discordapp.com/channels/974648133898354719/974648133898354722/977460812220346369)
